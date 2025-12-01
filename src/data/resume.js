@@ -1,7 +1,7 @@
 const resume = {
   name: 'Sayani Saha',
   title: 'Data Engineer',
-  phone: '+91-9830655797',
+  phone: '+91-6296791698',
   email: 'sayanisaha135@gmail.com',
   linkedin: 'https://www.linkedin.com/in/sayanisaha',
   location: 'Bangalore, India',
